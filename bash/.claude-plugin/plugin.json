@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "nong-dev",
+    "devtools"
+  ],
+  "author": {
+    "name": "angri450"
+  },
+  "skills": [
+    "./"
+  ],
+  "description": "Bash scripting and CLI operations — quoting, set -e, trap, tool selection, sandbox, git safety",
+  "license": "Apache-2.0",
+  "name": "bash",
+  "version": "1.0.0"
+}

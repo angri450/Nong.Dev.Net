@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "nong-dev",
+    "devtools"
+  ],
+  "author": {
+    "name": "angri450"
+  },
+  "skills": [
+    "./"
+  ],
+  "description": "NuGet package management via dotnet CLI — install, update, push, pack, sources",
+  "license": "Apache-2.0",
+  "name": "nuget",
+  "version": "1.0.0"
+}

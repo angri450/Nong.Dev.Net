@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "nong-dev",
+    "devtools"
+  ],
+  "author": {
+    "name": "angri450"
+  },
+  "skills": [
+    "./"
+  ],
+  "description": "PowerShell 7+ scripting reference — encoding, error handling, modules, credentials, WhatIf",
+  "license": "Apache-2.0",
+  "name": "powershell",
+  "version": "1.0.0"
+}

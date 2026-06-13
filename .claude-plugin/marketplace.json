@@ -1,0 +1,87 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "nong-dev",
+  "description": "Nong.Dev.Net 1.0.0 — 10 individual developer skills for shell scripting, .NET, NuGet, Git platforms, decompilation, email, and download proxy",
+  "owner": {
+    "name": "angri450"
+  },
+  "plugins": [
+    {
+      "name": "nong-dev",
+      "source": "./",
+      "description": "Full bundle: all 10 Nong.Dev.Net developer skills. Install individual skills for lower token cost.",
+      "author": { "name": "angri450" },
+      "category": "developer-tools"
+    },
+    {
+      "name": "bash",
+      "source": "./bash",
+      "description": "Bash scripting and CLI operations — quoting, set -e, trap, tool selection, sandbox, git safety",
+      "author": { "name": "angri450" },
+      "category": "developer-tools"
+    },
+    {
+      "name": "powershell",
+      "source": "./powershell",
+      "description": "PowerShell 7+ scripting reference — encoding, error handling, modules, credentials, WhatIf",
+      "author": { "name": "angri450" },
+      "category": "developer-tools"
+    },
+    {
+      "name": "dotnet",
+      "source": "./dotnet",
+      "description": ".NET development all-in-one — C#, MSBuild, ASP.NET, EF Core, MAUI, diagnostics, AI",
+      "author": { "name": "angri450" },
+      "category": "developer-tools"
+    },
+    {
+      "name": "nuget",
+      "source": "./nuget",
+      "description": "NuGet package management via dotnet CLI — install, update, push, pack, sources",
+      "author": { "name": "angri450" },
+      "category": "developer-tools"
+    },
+    {
+      "name": "github",
+      "source": "./github",
+      "description": "Git + GitHub CLI — repo, issue, PR, Actions, release, gist",
+      "author": { "name": "angri450" },
+      "category": "developer-tools"
+    },
+    {
+      "name": "gitee",
+      "source": "./gitee",
+      "description": "Gitee platform via MCP Server — issue, PR, review, merge, release, notifications",
+      "author": { "name": "angri450" },
+      "category": "developer-tools"
+    },
+    {
+      "name": "gitcode",
+      "source": "./gitcode",
+      "description": "GitCode platform via REST API — issue, PR, review, merge, repo management",
+      "author": { "name": "angri450" },
+      "category": "developer-tools"
+    },
+    {
+      "name": "ghproxy",
+      "source": "./ghproxy",
+      "description": "GitHub download acceleration via gh-proxy.org",
+      "author": { "name": "angri450" },
+      "category": "developer-tools"
+    },
+    {
+      "name": "ilspycmd",
+      "source": "./ilspycmd",
+      "description": "Decompile .NET assemblies to C# source",
+      "author": { "name": "angri450" },
+      "category": "developer-tools"
+    },
+    {
+      "name": "email",
+      "source": "./email",
+      "description": "Email operations via ClawEmail CLI",
+      "author": { "name": "angri450" },
+      "category": "developer-tools"
+    }
+  ]
+}

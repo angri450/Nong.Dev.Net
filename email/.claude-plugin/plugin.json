@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "nong-dev",
+    "devtools"
+  ],
+  "author": {
+    "name": "angri450"
+  },
+  "skills": [
+    "./"
+  ],
+  "description": "Email operations via ClawEmail CLI",
+  "license": "Apache-2.0",
+  "name": "email",
+  "version": "1.0.0"
+}

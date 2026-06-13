@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "nong-dev",
+    "devtools"
+  ],
+  "author": {
+    "name": "angri450"
+  },
+  "skills": [
+    "./"
+  ],
+  "description": "Git + GitHub CLI — repo, issue, PR, Actions, release, gist",
+  "license": "Apache-2.0",
+  "name": "github",
+  "version": "1.0.0"
+}

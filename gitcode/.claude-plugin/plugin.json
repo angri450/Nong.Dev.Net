@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "nong-dev",
+    "devtools"
+  ],
+  "author": {
+    "name": "angri450"
+  },
+  "skills": [
+    "./"
+  ],
+  "description": "GitCode platform via REST API — issue, PR, review, merge, repo management",
+  "license": "Apache-2.0",
+  "name": "gitcode",
+  "version": "1.0.0"
+}

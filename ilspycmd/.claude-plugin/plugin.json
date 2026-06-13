@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "nong-dev",
+    "devtools"
+  ],
+  "author": {
+    "name": "angri450"
+  },
+  "skills": [
+    "./"
+  ],
+  "description": "Decompile .NET assemblies to C# source",
+  "license": "Apache-2.0",
+  "name": "ilspycmd",
+  "version": "1.0.0"
+}
