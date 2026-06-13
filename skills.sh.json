@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "groups": [
+    {
+      "title": "Nong Developer Tools",
+      "description": "Shell scripting, .NET development, NuGet packages, Git platform operations, ILSpy decompilation, email, and download proxies for Claude Code development workflows",
+      "skills": ["bash", "powershell", "dotnet", "nuget", "github", "gitee", "gitcode", "ghproxy", "ilspycmd", "email"]
+    }
+  ]
+}

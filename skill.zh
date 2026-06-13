@@ -1,0 +1,25 @@
+# Nong.Dev.Net 中文总览
+
+Nong.Dev.Net 是一个 Claude Code 开发者工具多 skill 插件。
+
+## Skill 清单
+
+| Skill | 用途 |
+|-------|------|
+| `bash` | Bash 脚本与 CLI 操作 — 引号、set -e、trap、工具选择、沙箱、Git 安全 |
+| `powershell` | PowerShell 7+ 脚本参考 — 编码、错误处理、模块、凭证、WhatIf |
+| `dotnet` | .NET 开发全家桶 — C#、MSBuild、ASP.NET、EF Core、MAUI、诊断、AI |
+| `nuget` | NuGet 包管理 — 安装、更新、推送、打包、源管理 |
+| `github` | Git + GitHub CLI — 仓库、Issue、PR、Actions、Release、Gist |
+| `gitee` | Gitee 平台（MCP Server） |
+| `gitcode` | GitCode 平台（REST API） |
+| `ghproxy` | GitHub 下载加速 |
+| `ilspycmd` | .NET 程序集反编译 |
+| `email` | 邮件操作（ClawEmail CLI） |
+
+## 安装
+
+```bash
+claude plugin marketplace add https://gitcode.com/angri450/Nong.Dev.Net.git
+claude plugin install nong-dev@angri450
+```

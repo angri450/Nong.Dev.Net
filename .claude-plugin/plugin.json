@@ -1,0 +1,28 @@
+{
+  "name": "nong-dev",
+  "version": "1.0.0",
+  "description": "Nong.Dev.Net 1.0.0. Claude Code multi-skill plugin for developer tooling: bash, PowerShell, .NET, NuGet, Git platforms (GitHub/Gitee/GitCode), ILSpy, email, and GitHub download proxy.",
+  "author": {
+    "name": "angri450"
+  },
+  "homepage": "https://github.com/angri450/Nong.Dev.Net",
+  "repository": "https://gitee.com/angri450/Nong.Dev.Net.git",
+  "license": "Apache-2.0",
+  "keywords": [
+    "bash", "powershell", "dotnet", "nuget", "github", "gitee", "gitcode",
+    "ghproxy", "ilspy", "email", "developer", "devtools", "shell",
+    "claude-code-plugin", "nong"
+  ],
+  "skills": [
+    "./bash",
+    "./powershell",
+    "./dotnet",
+    "./nuget",
+    "./github",
+    "./gitee",
+    "./gitcode",
+    "./ghproxy",
+    "./ilspycmd",
+    "./email"
+  ]
+}

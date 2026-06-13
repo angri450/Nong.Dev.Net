@@ -1,0 +1,12 @@
+
+*.zip
+*.nupkg
+*.binlog
+_archive/
+.vs/
+bin/
+obj/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
