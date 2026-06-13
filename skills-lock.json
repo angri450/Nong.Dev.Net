@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "skills": {
+    "bash": {
+      "source": "angri450/Nong.Dev.Net",
+      "sourceType": "github",
+      "skillPath": "bash/SKILL.md",
+      "computedHash": "3e5e580a4e81cd6e4a382df9b78a306570e7856a45698d8fa9ad5377ca14afb6"
+    },
+    "chart": {
+      "source": "angri450/Nong.Toolkit.Net",
+      "sourceType": "github",
+      "skillPath": "chart/SKILL.md",
+      "computedHash": "23963b64452ea6a413f48e2e4461143c7bc35806702bad1e2280dadebce23005"
+    },
+    "diagram": {
+      "source": "angri450/Nong.Toolkit.Net",
+      "sourceType": "github",
+      "skillPath": "diagram/SKILL.md",
+      "computedHash": "d562fce2c285b9befaa78e5a11b7e177973a4c92533e96b38855e1304c47d134"
+    },
+    "dotnet": {
+      "source": "angri450/Nong.Dev.Net",
+      "sourceType": "github",
+      "skillPath": "dotnet/SKILL.md",
+      "computedHash": "8c1799d9c5665547c5cab65291f532e54a371660beb5b9ee3214580ed42b87a0"
+    },
+    "email": {
+      "source": "angri450/Nong.Dev.Net",
+      "sourceType": "github",
+      "skillPath": "email/SKILL.md",
+      "computedHash": "20c068812fdbbad4876c11609781fe6b92dbe9a972aa65f662f7f9b523d28e90"
+    },
+    "excel": {
+      "source": "angri450/Nong.Toolkit.Net",
+      "sourceType": "github",
+      "skillPath": "excel/SKILL.md",
+      "computedHash": "5965d837f622de674dc3552470a0f46a87975927358b599b3bf76a8d23b09611"
+    },
+    "genre": {
+      "source": "angri450/Nong.Toolkit.Net",
+      "sourceType": "github",
+      "skillPath": "genre/SKILL.md",
+      "computedHash": "f27a2e06544e85c99b474c169bf5f3bcfa7b8ebe6555f2274db31ba70d31da78"
+    },
+    "ghproxy": {
+      "source": "angri450/Nong.Dev.Net",
+      "sourceType": "github",
+      "skillPath": "ghproxy/SKILL.md",
+      "computedHash": "53fd7c4395b5795126ef3f28850dbc7d15d5b232cd94c106dd1dc5687e8cab0a"
+    },
+    "gitcode": {
+      "source": "angri450/Nong.Dev.Net",
+      "sourceType": "github",
+      "skillPath": "gitcode/SKILL.md",
+      "computedHash": "b9cdd416dadf7ab1368e1352db20c133057e887e1def27fd4398643651f48be9"
+    },
+    "gitee": {
+      "source": "angri450/Nong.Dev.Net",
+      "sourceType": "github",
+      "skillPath": "gitee/SKILL.md",
+      "computedHash": "43f1a47e253eccc529c922599b44288d45700495f72f1dd07b056aea723b9a00"
+    },
+    "github": {
+      "source": "angri450/Nong.Dev.Net",
+      "sourceType": "github",
+      "skillPath": "github/SKILL.md",
+      "computedHash": "a0de49167686740683c135cb73ed36be94fbe04632c60b9730ed16765d577732"
+    },
+    "icons": {
+      "source": "angri450/Nong.Toolkit.Net",
+      "sourceType": "github",
+      "skillPath": "icons/SKILL.md",
+      "computedHash": "beb02536519a9b973e6e7ed14440fab635e0be685f1cd999ea443a9038d5eb3b"
+    },
+    "ilspycmd": {
+      "source": "angri450/Nong.Dev.Net",
+      "sourceType": "github",
+      "skillPath": "ilspycmd/SKILL.md",
+      "computedHash": "1d13a3a4e00d276649cf959ba1b7ec065ba6dc878ff7a2f3d5bca6c4e260012f"
+    },
+    "inspect": {
+      "source": "angri450/Nong.Toolkit.Net",
+      "sourceType": "github",
+      "skillPath": "inspect/SKILL.md",
+      "computedHash": "9ac6241616e56711e8329e1cac5dab67f05a34e9d7add1cd85fe5b1e25de9a5e"
+    },
+    "literature": {
+      "source": "angri450/Nong.Toolkit.Net",
+      "sourceType": "github",
+      "skillPath": "literature/SKILL.md",
+      "computedHash": "356e1c5680ce8fae6a54580ff16eebc7f1e1dfe3dcc6630197471b59ef7fcbc9"
+    },
+    "nuget": {
+      "source": "angri450/Nong.Dev.Net",
+      "sourceType": "github",
+      "skillPath": "nuget/SKILL.md",
+      "computedHash": "f111243f60e359caafa575a0902371e10960140263e7842ada606e83413d2d02"
+    },
+    "ocr": {
+      "source": "angri450/Nong.Toolkit.Net",
+      "sourceType": "github",
+      "skillPath": "ocr/SKILL.md",
+      "computedHash": "a5dc40bc77222452019a1773e94d68988d483879b8d11423ec32f684a4da68d4"
+    },
+    "pdf": {
+      "source": "angri450/Nong.Toolkit.Net",
+      "sourceType": "github",
+      "skillPath": "pdf/SKILL.md",
+      "computedHash": "f6b26e3c28e7489bea2aa0947acbeb5b267f665275ed735d92314609d5e82316"
+    },
+    "powershell": {
+      "source": "angri450/Nong.Dev.Net",
+      "sourceType": "github",
+      "skillPath": "powershell/SKILL.md",
+      "computedHash": "c50681f8c747309d86f69fca614fe69a4d58bdde50f78c50c0b2bad424a0eb3f"
+    },
+    "pptx": {
+      "source": "angri450/Nong.Toolkit.Net",
+      "sourceType": "github",
+      "skillPath": "pptx/SKILL.md",
+      "computedHash": "fed8695eb7cd9d685a2cf051593b96a0967cdc8761dd53e92326a19caa336522"
+    },
+    "skill-breeder": {
+      "source": "angri450/Nong.Toolkit.Net",
+      "sourceType": "github",
+      "skillPath": "skill-breeder/SKILL.md",
+      "computedHash": "35ae38ba7537687bf0d3880b5a044e7304653ef93e2c2a12abf32b0d3531059e"
+    },
+    "skill-grader": {
+      "source": "angri450/Nong.Toolkit.Net",
+      "sourceType": "github",
+      "skillPath": "skill-grader/SKILL.md",
+      "computedHash": "1b9182f6cb22d6d18262d4169608da5c741d510f8215e26a2a4644a13f58a0b3"
+    },
+    "skill-pruner": {
+      "source": "angri450/Nong.Toolkit.Net",
+      "sourceType": "github",
+      "skillPath": "skill-pruner/SKILL.md",
+      "computedHash": "89101f0ca1ca69bdb919a7f6ffd447070f817d5c2e6c8c6b920ab1e63a417087"
+    },
+    "skill-tester": {
+      "source": "angri450/Nong.Toolkit.Net",
+      "sourceType": "github",
+      "skillPath": "skill-tester/SKILL.md",
+      "computedHash": "fd92d13484225b1bf96be59f1b701ed44505771c603e41703e8570f9d171a9dc"
+    },
+    "slice": {
+      "source": "angri450/Nong.Toolkit.Net",
+      "sourceType": "github",
+      "skillPath": "slice/SKILL.md",
+      "computedHash": "c74f67b72755652be17811e912655fc3a21ef5ec155cf9e23abdad4cc34ca032"
+    },
+    "word": {
+      "source": "angri450/Nong.Toolkit.Net",
+      "sourceType": "github",
+      "skillPath": "word/SKILL.md",
+      "computedHash": "f9e843548c7895bfac6dfdb0709dd5468e637fd75fe78bd677d733a55a959220"
+    }
+  }
+}

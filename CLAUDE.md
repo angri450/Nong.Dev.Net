@@ -16,6 +16,12 @@ Split from the GroundPA Toolkit alongside the Nong 3.2.5 migration — these 10 
 2. Keep each `SKILL.md` concise — the routing layer. Put detailed rules in `references/`.
 3. Record development work under `log/plans/`, `log/changelog/`, `log/debug/`, or `log/guidance/`.
 
+## Shared References
+
+Cross-cutting developer references that multiple skills may need:
+
+- `references/word-com-automation.md` — Word COM automation escape hatch: hardened PowerShell patterns, 9 known failure modes, enum constants, process cleanup. Load only when installed Microsoft Word must be driven programmatically. Originally from Nong.Toolkit.Net `word/references/com-automation.md`; moved here as a developer-tool concern.
+
 ## Plugin Infrastructure
 
 `.claude-plugin/` must contain both files:
