@@ -21,5 +21,9 @@ Nong.Dev.Net 是一个 Claude Code 开发者工具多 skill 插件。
 
 ```bash
 claude plugin marketplace add https://gitcode.com/angri450/Nong.Dev.Net.git
-claude plugin install nong-dev@angri450
+# 全量安装
+claude plugin install nong-dev@nong-dev
+# 或按需安装
+claude plugin install bash@nong-dev
+claude plugin install powershell@nong-dev
 ```

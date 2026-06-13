@@ -1,10 +1,24 @@
 {
-  "version": "1.0.0",
-  "groups": [
+  "groupings": [
     {
-      "title": "Nong Developer Tools",
-      "description": "Shell scripting, .NET development, NuGet packages, Git platform operations, ILSpy decompilation, email, and download proxies for Claude Code development workflows",
-      "skills": ["bash", "powershell", "dotnet", "nuget", "github", "gitee", "gitcode", "ghproxy", "ilspycmd", "email"]
+      "title": "Shell",
+      "description": "Bash and PowerShell scripting references, tool selection, and sandbox decisions",
+      "skills": ["bash", "powershell"]
+    },
+    {
+      "title": ".NET Ecosystem",
+      "description": "C# development, NuGet packages, and assembly decompilation",
+      "skills": ["dotnet", "nuget", "ilspycmd"]
+    },
+    {
+      "title": "Git Platforms",
+      "description": "GitHub, Gitee, and GitCode operations",
+      "skills": ["github", "gitee", "gitcode"]
+    },
+    {
+      "title": "Utilities",
+      "description": "Download acceleration and email operations",
+      "skills": ["ghproxy", "email"]
     }
   ]
 }
