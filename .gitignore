@@ -1,15 +1,34 @@
-
+# Project management files — local only, do not upload to GitHub/Gitee/GitCode
 CLAUDE.md
 AGENTS.md
+PROJECT_STATE.md
+施工窗口.md
+计划窗口.md
+
+# Development logs — local only
+log/
+
+# Plugin lock file — regenerated per environment
 skills-lock.json
+
+# Claude Code local config
+.claude/
+
+# Archive and backup material
+_archive/
+
+# Build, package, and test outputs
 *.zip
 *.nupkg
 *.binlog
-_archive/
-.vs/
 bin/
 obj/
+
+# IDE and editor noise
+.vs/
 *.user
 *.suo
+
+# OS noise
 .DS_Store
 Thumbs.db
