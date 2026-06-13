@@ -12,5 +12,5 @@
   "description": "Decompile .NET assemblies to C# source",
   "license": "Apache-2.0",
   "name": "ilspycmd",
-  "version": "1.0.0"
+  "version": "1.1.0"
 }

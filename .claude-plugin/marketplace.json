@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "nong-dev",
-  "description": "Nong.Dev.Net 1.0.0 — 10 individual developer skills for shell scripting, .NET, NuGet, Git platforms, decompilation, email, and download proxy",
+  "description": "Nong.Dev.Net 1.1.0 — 10 individual developer skills for shell scripting, .NET, NuGet, Git platforms, decompilation, email, and download proxy",
   "owner": {
     "name": "angri450"
   },

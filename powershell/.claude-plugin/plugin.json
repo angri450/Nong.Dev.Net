@@ -12,5 +12,5 @@
   "description": "PowerShell 7+ scripting reference — encoding, error handling, modules, credentials, WhatIf",
   "license": "Apache-2.0",
   "name": "powershell",
-  "version": "1.0.0"
+  "version": "1.1.0"
 }

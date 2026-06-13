@@ -1,6 +1,6 @@
 {
   "name": "nong-dev",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Nong.Dev.Net 1.0.0. Claude Code multi-skill plugin for developer tooling: bash, PowerShell, .NET, NuGet, Git platforms (GitHub/Gitee/GitCode), ILSpy, email, and GitHub download proxy.",
   "author": {
     "name": "angri450"

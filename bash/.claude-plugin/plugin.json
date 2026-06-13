@@ -12,5 +12,5 @@
   "description": "Bash scripting and CLI operations — quoting, set -e, trap, tool selection, sandbox, git safety",
   "license": "Apache-2.0",
   "name": "bash",
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
